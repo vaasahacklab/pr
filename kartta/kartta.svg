@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="356.67529mm"
+   height="223.39432mm"
+   viewBox="0 0 356.67529 223.39432"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="kartta.svg"
+   inkscape:export-filename="C:\Users\MikaelKunnari\Documents\hacklab\kartta4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.25543588"
+     inkscape:cx="279.9137"
+     inkscape:cy="219.2331"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(145.34145,63.659743)">
+    <rect
+       style="fill:#ab4603;fill-opacity:1;stroke:none;stroke-width:0.200688;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect31"
+       width="2000"
+       height="30"
+       x="-1015.4327"
+       y="112.09163"
+       transform="rotate(-15)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.9918px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.849796"
+       x="-92.910873"
+       y="140.52737"
+       id="text805"
+       transform="rotate(-15)"><tspan
+         sodipodi:role="line"
+         id="tspan803"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:impact;-inkscape-font-specification:impact;fill:#ffffff;stroke-width:0.849796"
+         x="-92.910873"
+         y="140.52737">TIILITEHTAANKATU</tspan></text>
+    <rect
+       style="fill:#ab4603;fill-opacity:1;stroke:none;stroke-width:0.200688;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect31-4"
+       width="2000"
+       height="30"
+       x="-979.35315"
+       y="-135.4127"
+       transform="rotate(-105)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.9918px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.849796"
+       x="-64.474342"
+       y="133.56627"
+       id="text805-5"
+       transform="rotate(75)"><tspan
+         sodipodi:role="line"
+         id="tspan803-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:impact;-inkscape-font-specification:impact;fill:#ffffff;stroke-width:0.849796"
+         x="-64.474342"
+         y="133.56627">KOULUKATU</tspan></text>
+    <rect
+       style="fill:#cdcdcd;fill-opacity:1;stroke:none;stroke-width:0.0945481;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect6455"
+       width="270.2048"
+       height="109.87868"
+       x="-77.0653"
+       y="-14.153842"
+       transform="rotate(-15)" />
+    <circle
+       style="fill:#ea4335;fill-opacity:1;stroke:none;stroke-width:0.0403187;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path6727"
+       cx="-57.709244"
+       cy="-17.35557"
+       r="24.479334" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0201594;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6751"
+       cx="-57.709244"
+       cy="-17.35557"
+       r="12.239667" />
+    <path
+       id="rect6797"
+       style="fill:#ea4335;fill-opacity:1;stroke:none;stroke-width:0.0306254;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -78.304808,-4.0899126 -57.705132,31.616459 -37.105774,-4.0899117 Z" />
+  </g>
+</svg>
